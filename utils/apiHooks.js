@@ -1,1 +1,1 @@
-export const baseUrl = "https://property-sale-backend.onrender.com/api";
+export const baseUrl = "https://rm-best-prop-backend.onrender.com/api";
